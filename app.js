@@ -1,0 +1,1 @@
+alert("NOTE : this page made by jawad hayder who will change the world ")
